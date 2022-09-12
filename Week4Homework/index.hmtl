@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <script src = "index.js"></script>
+  <title>InTune</title>
+</head>
+
+<body>
+  <header>InTune - Learn To Record Your Own Music</header>
+  <main>
+    <h2 id="boxed">How To Get Started Making Your Own Track</h2>
+    <img src="https://www.mumbaimusicinstitute.in/wp-content/uploads/2019/01/Step-2-Talla3ProductionStudio2-hero4@1400x1050-1080x675.jpg" id="boxed" alt="Recording Studio">
+
+    <ol>
+      <li>Buy Necessary Recording Equipment</li>
+      <li>Download A Music Recording Software</li>
+      <li>Find a Beat/Instrumental</li>
+    </ol>
+    <h2 id="boxed">When Starting Out Learning To Mix & Master Vocals</h2>
+
+    <ul>
+      <li>You may not get the sound you are looking for right away. Don't Let this discourage you!</li>
+      <li>Watch tutorials frequently on YouTube on how to professionally mix songs in whatever Music Software you downloaded.</li>
+      <li>Experiment with your plugins.</li>
+    </ul>
+  </main>
+<footer>
+  <p>About us</p>
+</footer>
+  <script src="./index.js"></scrip>
+</body>
+</html>
